@@ -11,4 +11,9 @@ package praktik01;
  */
 public class Kerudung {
     
+    String bahan;
+    String merk;
+    String harga;
+    String tipe_bahan;
+    
 }
