@@ -34,6 +34,14 @@ public class kerudungaksi {
         C.motip="segi empat";
         C.tipe_bahan="katun";
         
+       A.Pakai();
+       System.out.println();
+       B.Pakai();
+       System.out.println();
+       C.Pakai();
+       
+       
+        
     }
         
 }
