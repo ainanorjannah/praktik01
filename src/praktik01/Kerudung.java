@@ -15,5 +15,15 @@ public class Kerudung {
     String merk;
     String harga;
     String tipe_bahan;
+    String motip
+    
+    void Pakai(){
+        System.out.println("merk        :"+merk;
+        System.out.println("bahan       :+bahan")
+        Sytem.out.println("harga        ::+harga")
+        System .out.println("tipe       :+bahan")
+        System.out.println("motip       :+motip")
+    }
+    
     
 }
